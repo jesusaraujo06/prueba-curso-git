@@ -18,3 +18,8 @@ for ($i=0; $i < count($arrayExample); $i++) {
 
 // echo $arrayExample[0]['nombre'];
 
+// Funcion para setear el array
+function setArray($array){
+    $array = $array;
+    echo $array;
+}
